@@ -1,0 +1,35 @@
+{
+    "name": "homework33",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "dev": "gulp",
+        "build": "gulp styles"
+    },
+    "browserslist": [
+        "last 5 versions"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mmf2003/Homework33.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/mmf2003/Homework33/issues"
+    },
+    "homepage": "https://github.com/mmf2003/Homework33#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.5.4",
+        "browser-sync": "^3.0.4",
+        "gulp": "^5.0.1",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-postcss": "^10.0.0",
+        "gulp-rename": "^2.1.0",
+        "gulp-sass": "^6.0.1",
+        "sass": "^1.101.3"
+    }
+}
